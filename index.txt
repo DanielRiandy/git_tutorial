@@ -1,8 +1,7 @@
 my name is Daniel
 "Hello World"
 
-<<<<<<< HEAD
 blablabla
-=======
+
 DEV 2 WAS HEREEE :3
->>>>>>> 6c9efa4b4ee0b63ceb3c3445b71e5cb472249d33
+
