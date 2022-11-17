@@ -1,5 +1,6 @@
 my name is Daniel
 "Hello World"
+new branches changes! by Dev 1 on master branch
 
 blablabla
 
